@@ -1,5 +1,5 @@
 
-#TODO APP
+#TODO APP  
 This is a simple yet fully functional Todo application built with React.js, styled using Tailwind CSS, and incorporating local storage for persistent data. The application allows users to manage their tasks efficiently with features to add, edit, delete, mark tasks as completed, and filter tasks based on their completion status.
 
 
